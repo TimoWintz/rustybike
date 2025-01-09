@@ -1,0 +1,11 @@
+[package]
+name = "rusty_bike"
+version = "0"
+edition = "2021"
+
+[dependencies]
+argmin = "0.10.0"
+ndarray = "0.16.1"
+ndarray-npy = "0.9.1"
+num-traits = "0.2.19"
+roots = "0.0.8"
